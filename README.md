@@ -361,7 +361,7 @@ VibeOut represents the next evolution in personalized fitness technology, where 
 For questions, suggestions, or collaboration opportunities, feel free to reach out:
 
 - **GitHub**: [krishh-kumarr](https://github.com/krishh-kumarr)
-- **Project Repository**: [VibeOut-IoT](https://github.com/krishh-kumarr/VibeOut-IoT)
+- **Project Repository**: [VibeOut-IoT](https://github.com/krishh-kumarr/VibeOut_Iot_Implementation)
 
 ## 📜 License
 
