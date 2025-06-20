@@ -53,15 +53,18 @@ This comprehensive solution combines AI-driven emotion recognition technology wi
   <img src="./iot_ss/iotsetup.png" alt="IoT Setup" width="600">
 </p>
 
-<p align="center">
-  <img src="./iot_ss/iotproject.png" alt="IoT" width="600">
-</p>
+## 🔧 Hardware & Development Setup
+
+<div align="center">
+
+| IoT Hardware Integration | Development Environment |
+|:------------------------:|:------------------------:|
+| <img src="./iot_ss/iotproject.png" alt="IoT Project" width="400"> | <img src="./iot_ss/vscode_iot.png" alt="VS Code Development" width="400"> |
+| **ESP32 & MAX30102 Sensor Setup** | **Professional Development Environment** |
+
+</div>
 
 ## 🏗️ System Architecture
-
-<p align="center">
-  <img src="./iot_ss/architecture.png" alt="Architecture Diagram" width="700">
-</p>
 
 This project implements a sophisticated multi-layered architecture that seamlessly integrates hardware and software components:
 
@@ -98,9 +101,20 @@ VibeOut addresses these challenges by creating an intelligent fitness ecosystem 
 - **Visual Feedback**: Integrated OLED display for immediate biometric feedback
 - **Cloud Analytics**: Data streaming to ThingSpeak platform for advanced trend analysis
 
-<p align="center">
-  <img src="./iot_ss/thingspeak.png" alt="ThingSpeak Integration" width="600">
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="./iot_ss/thingspeak.png" alt="ThingSpeak Integration" width="100%">
+<p><strong>📊 Cloud Data Analytics</strong></p>
+</td>
+<td width="50%">
+<img src="./iot_ss/architecture.png" alt="System Architecture" width="100%">
+<p><strong>🏗️ System Architecture</strong></p>
+</td>
+</tr>
+</table>
+</div>
 
 ### 💪 Smart Workout Optimization
 - **Adaptive Recommendations**: Personalized exercise plans based on current emotional and physical state
@@ -149,29 +163,66 @@ VibeOut addresses these challenges by creating an intelligent fitness ecosystem 
 
 ## 📱 Application Screenshots
 
-### User Interface
-<p align="center">
-  <img src="./iot_ss/login1.png" alt="Login Screen" width="200">
-  <img src="./iot_ss/profile2.png" alt="Profile Screen" width="200">
-  <img src="./iot_ss/dashboard3.png" alt="Dashboard with IoT Data" width="200">
-</p>
+<div align="center">
 
-### Analytics & Insights
-<p align="center">
-  <img src="./iot_ss/analytics4.png" alt="Analytics Screen" width="200">
-  <img src="./iot_ss/analytics5.png" alt="Emotion Analysis" width="200">
-  <img src="./iot_ss/analytics6.png" alt="Workout Analytics" width="200">
-</p>
+### 🔐 Authentication & Profile Management
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./iot_ss/login1.png" alt="Login Interface" width="100%">
+<br><strong>Secure Login System</strong>
+</td>
+<td align="center" width="33%">
+<img src="./iot_ss/profile2.png" alt="User Profile" width="100%">
+<br><strong>Personal Profile Dashboard</strong>
+</td>
+<td align="center" width="33%">
+<img src="./iot_ss/dashboard3.png" alt="Main Dashboard" width="100%">
+<br><strong>Real-time IoT Dashboard</strong>
+</td>
+</tr>
+</table>
+
+### 📊 Advanced Analytics Suite
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./iot_ss/analytics4.png" alt="Performance Analytics" width="100%">
+<br><strong>Performance Metrics</strong>
+</td>
+<td align="center" width="33%">
+<img src="./iot_ss/analytics5.png" alt="Emotion Analysis" width="100%">
+<br><strong>AI Emotion Recognition</strong>
+</td>
+<td align="center" width="33%">
+<img src="./iot_ss/analytics6.png" alt="Workout Analytics" width="100%">
+<br><strong>Workout Intelligence</strong>
+</td>
+</tr>
+</table>
+
+</div>
 
 The application features a clean, intuitive interface that seamlessly integrates IoT data with AI-powered insights, providing users with comprehensive fitness and wellness monitoring.
 
 ## 📊 Real-Time Health Dashboard
 
-<p align="center">
-  <img src="./iot_ss/dashboard3.png" alt="IoT Dashboard" width="600">
-</p>
-
 The IoT dashboard represents the core innovation of this project, providing comprehensive real-time health monitoring:
+
+<div align="center">
+<table>
+<tr>
+<td width="60%" align="center">
+<img src="./iot_ss/dashboard3.png" alt="Live IoT Dashboard" width="100%">
+<br><strong>🔴 LIVE Dashboard Interface</strong>
+</td>
+<td width="40%" align="center">
+<img src="./iot_ss/vscode10.png" alt="Development Code" width="100%">
+<br><strong>💻 Backend Implementation</strong>
+</td>
+</tr>
+</table>
+</div>
 
 ### Key Monitoring Features:
 - **Heart Rate Tracking**: Continuous BPM monitoring with trend analysis during various workout intensities
@@ -228,10 +279,31 @@ The IoT dashboard represents the core innovation of this project, providing comp
 
 ## 💻 Technical Implementation Details
 
-<p align="center">
-  <img src="./iot_ss/vscode8.png" alt="Code Implementation" width="300">
-  <img src="./iot_ss/vscode9.png" alt="Code Implementation" width="300">
-</p>
+<div align="center">
+
+### 🔬 Development Workspace
+<table>
+<tr>
+<td width="25%">
+<img src="./iot_ss/vscode7.png" alt="VS Code Setup" width="100%">
+<p><strong>IDE Configuration</strong></p>
+</td>
+<td width="25%">
+<img src="./iot_ss/vscode8.png" alt="Code Implementation" width="100%">
+<p><strong>Frontend Development</strong></p>
+</td>
+<td width="25%">
+<img src="./iot_ss/vscode9.png" alt="Backend Code" width="100%">
+<p><strong>Backend Architecture</strong></p>
+</td>
+<td width="25%">
+<img src="./iot_ss/vscode10.png" alt="IoT Integration" width="100%">
+<p><strong>IoT Integration</strong></p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ### IoT Hardware Implementation
 ```
