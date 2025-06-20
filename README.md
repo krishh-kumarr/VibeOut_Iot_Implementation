@@ -24,7 +24,7 @@
           <br />
           <sub><b>krishh-kumarr</b></sub>
           <br />
-          <sub>Software Tech</sub>
+          <sub>Software</sub>
         </a>
       </td>
       <td align="center">
